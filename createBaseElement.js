@@ -39,5 +39,6 @@ module.exports = function createBaseElement(mode, deviceType, mediaType) {
     return {
         element: element,
         source: source,
+        mode: mode,
     }
 }
