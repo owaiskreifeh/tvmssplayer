@@ -1,0 +1,12 @@
+{
+  "name": "tvmssplayer",
+  "version": "1.0.0",
+  "description": "Smart TV MSS player based on CE-HTML",
+  "main": "index.js",
+  "author": "owaiskreifeh <owaiskreifeh@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "eslint": "^8.11.0"
+  }
+}
